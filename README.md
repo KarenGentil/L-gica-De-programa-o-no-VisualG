@@ -1,1 +1,1 @@
-# L-gica-De-programa-o-no-VisualG
+# Logica-De-programacao-no-VisualG
